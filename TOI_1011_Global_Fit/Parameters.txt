@@ -1,0 +1,19 @@
+ Parameters          Description (Unit)                  Median           Upper 68 CI    Lower 68 CI
+------------  ---------------------------------  ----------------------  -------------  -------------
+     P                  Period (days)                 2.4704947557         5.143e-06     5.0742e-06
+    R_P            Radius (Jupiter Radius)        0.13748299273778958     1.20613e-09    1.43039e-08
+    R_P             Radius (Earth Radius)          1.508644405162707      1.32353e-08    1.56961e-07
+    T_C               Epoch Time (BJD)             2459231.128038228       0.0012418     0.00141263
+   T_dur           Transit Duration (days)        0.09817065759691487      0.042908       0.0304576
+     a              Semi-major Axis (AU)          0.032745122392453065    5.54229e-13    1.62912e-12
+     i              Inclination (Degrees)          87.03205788889998        2.15247        4.36443
+     e                  Eccentricity                   0 (Fixed)
+     w        Argument of Periastron (Degrees)         90 (Fixed)
+   T_eqq         Equilibrium Temperature (K)       1400.3005278301605     3.48334e-08    1.18505e-08
+     S                Insolation (S_E)             639.5293549140929        14.9549        14.9549
+  R_p/R_s     Radius of planet in stellar radii       0.0146632062        0.00123643     0.000725313
+   a/R_s      Semi-major axis in stellar radii        7.4733042223         0.619632        1.82136
+   Delta          Transit Depth (Fraction)       0.00021500961606371846    0.168644       0.0989296
+     b                Impact Parameter                0.3887072934         0.340393       0.273165
+     u1           Limb Darkening Parameter         0.5970144252927495      0.403579       0.364641
+     u2           Limb Darkening Parameter        0.006530820606412621     0.463599       0.359936
